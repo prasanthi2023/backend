@@ -1,3 +1,5 @@
+package exeception;
+
 class Main {
     public static void divideByZero() {
 

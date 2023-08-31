@@ -1,4 +1,8 @@
-import java.io.*;
+package exeception;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
 
 class Ex3 {
     // declareing the type of exception
